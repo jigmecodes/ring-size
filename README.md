@@ -1,2 +1,6 @@
 # ring-size
-Measure the size of a ring 
+Go get her ring while she's sleeping and use this program to measure the size! 
+
+All it takes is a picture.
+
+TLDR: Measures the diameter of a ring (or any object) 
