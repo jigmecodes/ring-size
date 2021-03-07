@@ -1,5 +1,5 @@
 # ring-size
-Go get her ring while she's sleeping and use this program to measure the size! 
+Go get her ring while he/she's sleeping and use this program to measure the size! 
 
 All it takes is a picture.
 
