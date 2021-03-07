@@ -1,7 +1,7 @@
 %% @author jigmetoby
 >>  
 >> %display image by uploading
->> pic = imread('ring.jpg');
+>> pic = imread('ring.png');
 >> imshow(pic)
 >>  
 >> %image segmention 
