@@ -34,7 +34,7 @@
 >>  
 >>%Getting the diameter
 >> diameter = regionprops(bw2, 'MajorAxislength')
->> displaying raw picture with a line to show diameter
+>> %displaying raw picture with a line to show diameter
 >> figure(3)
 >> imshow(pic)
 >> d = imdistline;
