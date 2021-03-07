@@ -22,11 +22,11 @@
 >> bw2 = im2bw(blue,level);
 >> subplot(2,2,1); imshow(bw2); title('Blue plane threshold');
 >>
->> %If object in image is white, removing blobs and noise is required. 
+>> %If object in image is white, removing blobs and noise is required.
 >>  
 >> %Follow below steps to remove noise:
 >> %fill = imfill(bw2, 'holes');
->> subplot(2,2,2); imshow(fill); title('Holes filled');
+>> %subplot(2,2,2); imshow(fill); title('Holes filled');
 >>
 >> %Follow steps below to remove blobs:
 >> %clear = imclearborder(fill);
